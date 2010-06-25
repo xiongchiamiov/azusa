@@ -5,18 +5,97 @@
         <text>azusa%0Ahttp%3A//changedmy.name/azusa/</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Tree" x="220" y="102" w="255" h="312" measuredW="300" measuredH="225" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="482" y="102" w="-1" h="312" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::HSplitter" x="220" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Accordion" x="244" y="72" w="255" h="23" measuredW="150" measuredH="121" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>v%20Programming%0A%20%20%3E%20Python%0A%20%20_%20Ruby%0A%3E%20Web%20Dev%0A%3E%20Graphic%20Design</text>
+        <text>Items</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="459" y="102" w="-1" h="312" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::HSplitter" x="475" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::Accordion" x="220" y="72" w="255" h="23" measuredW="150" measuredH="121" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::HSplitter" x="232" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::List" x="244" y="102" w="239" h="312" measuredW="100" measuredH="126" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perl%27s%20DBM_File%20packages%3A%20what%20the%20heck%20are%20you%20people%20thinking%3F%0AHow%20correct%20is%20correct%20enough%3F%0AWe%20can%27t%20afford%20to%20write%20safe%20software%0AA%20hard-to-find%20bug%2C%20and%20equivalent%20APIs%20in%20low-%20and%20high-level%20languages%0AHow%20slow%20are%20functional%20implementations%20of%20quicksort%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="214" y="0" w="731" h="443" measuredW="450" measuredH="400" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>azusa%0Ahttp%3A//changedmy.name/azusa/</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="471" y="102" w="-1" h="312" measuredW="16" measuredH="100" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::HSplitter" x="220" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Accordion" x="232" y="72" w="255" h="23" measuredW="150" measuredH="121" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Feeds</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::HSplitter" x="487" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::List" x="232" y="102" w="239" h="312" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Shedding%20Bikes%0ASlashdot%3A%20Developers%0AThe%20Reinvigorated%20Programmer</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="214" y="0" w="731" h="443" measuredW="450" measuredH="400" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>azusa%0Ahttp%3A//changedmy.name/azusa/</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Tree" x="220" y="102" w="255" h="312" measuredW="300" measuredH="225" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>v%20Programming%0A%20%20%3E%20Python%0A%20%20_%20Ruby%0A%3E%20Web%20Dev%0A%3E%20Graphic%20Design%0A_%20%5C%5Ball%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="459" y="102" w="-1" h="312" measuredW="16" measuredH="100" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::HSplitter" x="475" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Accordion" x="220" y="72" w="255" h="23" measuredW="150" measuredH="121" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tags</text>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::HSplitter" x="487" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::HSplitter" x="487" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::HSplitter" x="499" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Paragraph" x="511" y="102" w="418" h="312" measuredW="200" measuredH="140" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Donec%20at%20risus%20sem%2C%20sed%20vulputate%20nibh.%20Phasellus%20porta%20lacus%20ultricies%20odio%20ultrices%20congue.%20Integer%20nec%20consequat%20dolor.%20Etiam%20sed%20orci%20et%20ante%20euismod%20auctor.%20Donec%20volutpat%20augue%20vitae%20elit%20vulputate%20in%20venenatis%20ipsum%20iaculis.</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="511" y="72" w="418" h="-1" measuredW="364" measuredH="32" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>18</size>
+        <text>%5BNunc%20auctor%20dui%20ligula%2C%20ut%20porttitor%20enim%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="929" y="72" w="-1" h="342" measuredW="16" measuredH="100" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Canvas" x="511" y="186" w="418" h="25" measuredW="100" measuredH="70" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Paragraph" x="511" y="274" w="418" h="140" measuredW="200" measuredH="140" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nam%20ac%20felis%20non%20nulla%20commodo%20facilisis%20eget%20nec%20sapien.%20Class%20aptent%20taciti%20sociosqu%20ad%20litora%20torquent%20per%20conubia%20nostra%2C%20per%20inceptos%20himenaeos.%20Proin%20ut%20nulla%20quis%20lacus%20euismod%20mollis%20fringilla%20in%20erat.%20Nulla%20non%20mauris%20quam.%20Nullam%20et%20ipsum%20nec%20massa%20varius%20vestibulum.%20Suspendisse%20non%20neque%20justo.%20Cum%20sociis%20natoque%20penatibus%20et%20magnis%20dis%20parturient%20montes%2C%20nascetur%20ridiculus%20mus.%20Cras%20non%20gravida%20nibh.%20Sed%20nulla%20nulla%2C%20placerat%20sodales%20posuere%20vitae%2C%20fringilla%20a%20dui.%20Duis%20eu%20porta%20lacus.%20Morbi%20orci%20nisl%2C%20condimentum%20sit%20amet%20consequat%20adipiscing%2C%20aliquet%20vitae%20mauris.%0A%20%0AQuisque%20lacinia%20quam%20eu%20risus%20scelerisque%20vehicula%20venenatis%20arcu%20imperdiet.%20Phasellus%20tincidunt%20ante%20sed%20libero%20porta%20bibendum.%20Suspendisse%20odio%20velit%2C%20iaculis%20non%20vehicula%20at%2C%20convallis%20sit%20amet%20quam.%20Cras%20cursus%20sagittis%20purus%20ac%20volutpat.%20In%20hac%20habitasse%20platea%20dictumst.%20Vivamus%20non%20lacus%20urna%2C%20sed%20feugiat%20ipsum.%20Sed%20interdum%20bibendum%20lacus%2C%20sit%20amet%20sollicitudin%20lorem%20sagittis%20sed.%20Ut%20nec%20tellus%20vitae%20ipsum%20lobortis%20porttitor.%20Nullam%20ornare%20malesuada%20suscipit.%20Nam%20pulvinar%20mattis%20mauris%2C%20in%20sodales%20turpis%20interdum%20at.%20Quisque%20neque%20risus%2C%20congue%20et%20laoreet%20nec%2C%20convallis%20ac%20magna.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Title" x="511" y="242" w="418" h="-1" measuredW="120" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <size>18</size>
+        <text>%5BNam%20ac%20Felis%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="519" y="208" w="-1" h="-1" measuredW="77" measuredH="25" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tags%3A%20Ruby</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Label" x="519" y="186" w="-1" h="-1" measuredW="235" measuredH="25" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Feed%3A%20The%20Reinvigorated%20Programmer</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Link" x="815" y="208" w="-1" h="-1" measuredW="108" measuredH="25" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Post%20to%20Delicious</text>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="511" y="208" w="418" h="25" measuredW="100" measuredH="70" zOrder="26" locked="false" isInGroup="-1"/>
   </controls>
 </mockup>
