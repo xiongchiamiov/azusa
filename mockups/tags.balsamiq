@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" measuredW="955" measuredH="453" mockupW="731" mockupH="443">
+  <controls>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="214" y="0" w="731" h="443" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>azusa%0Ahttp%3A//changedmy.name/azusa/</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Tree" x="220" y="102" w="255" h="312" measuredW="300" measuredH="225" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>v%20Programming%0A%20%20%3E%20Python%0A%20%20_%20Ruby%0A%3E%20Web%20Dev%0A%3E%20Graphic%20Design</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="459" y="102" w="-1" h="312" measuredW="16" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::HSplitter" x="475" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Accordion" x="220" y="72" w="255" h="23" measuredW="150" measuredH="121" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tags</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::HSplitter" x="487" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

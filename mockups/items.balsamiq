@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" measuredW="955" measuredH="453" mockupW="731" mockupH="443">
+  <controls>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="214" y="0" w="731" h="443" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>azusa%0Ahttp%3A//changedmy.name/azusa/</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="482" y="102" w="-1" h="312" measuredW="16" measuredH="100" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::HSplitter" x="220" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Accordion" x="244" y="72" w="255" h="23" measuredW="150" measuredH="121" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Items</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::HSplitter" x="232" y="72" w="-1" h="342" measuredW="12" measuredH="100" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::List" x="244" y="102" w="239" h="312" measuredW="100" measuredH="126" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perl%27s%20DBM_File%20packages%3A%20what%20the%20heck%20are%20you%20people%20thinking%3F%0AHow%20correct%20is%20correct%20enough%3F%0AWe%20can%27t%20afford%20to%20write%20safe%20software%0AA%20hard-to-find%20bug%2C%20and%20equivalent%20APIs%20in%20low-%20and%20high-level%20languages%0AHow%20slow%20are%20functional%20implementations%20of%20quicksort%3F</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
